@@ -1,6 +1,6 @@
 # Edit Mode Expanded
 
-## [11.2-010](https://github.com/teelolws/EditModeExpanded/tree/11.2-010) (2025-10-08)
-[Full Changelog](https://github.com/teelolws/EditModeExpanded/compare/11.2-009...11.2-010) [Previous Releases](https://github.com/teelolws/EditModeExpanded/releases)
+## [11.2-014](https://github.com/teelolws/EditModeExpanded/tree/11.2-014) (2025-10-14)
+[Full Changelog](https://github.com/teelolws/EditModeExpanded/compare/11.2-013...11.2-014) [Previous Releases](https://github.com/teelolws/EditModeExpanded/releases)
 
-- Cooldown manager support removed - no longer needed  
+- Add workaround for issue with Duration Bars in default UI: the bars stop appearing after entering/editing edit mode  

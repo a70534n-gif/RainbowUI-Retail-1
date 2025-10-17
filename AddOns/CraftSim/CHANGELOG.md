@@ -1,7 +1,8 @@
 # CraftSim
 
-## [20.2.3](https://github.com/derfloh205/CraftSim/tree/20.2.3) (2025-09-26)
-[Full Changelog](https://github.com/derfloh205/CraftSim/compare/20.2.2...20.2.3) [Previous Releases](https://github.com/derfloh205/CraftSim/releases)
+## [20.3.1](https://github.com/derfloh205/CraftSim/tree/20.3.1) (2025-10-11)
+[Full Changelog](https://github.com/derfloh205/CraftSim/compare/20.3.0...20.3.1) [Previous Releases](https://github.com/derfloh205/CraftSim/releases)
 
-- 22.0.3  
-- ensure we have actual values to send (not nil) (#888)  
+- Fix/salvage changes (#895)  
+    * Implement workaround for Blizzard bug in salvage recipes to ensure correct tracking of saved salvage items  
+    * hotfix for previous updates  
